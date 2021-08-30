@@ -3,7 +3,7 @@ using namespace std;
  
  int main()
  {
- cout<<"heLLo world"<<endl;
+ cout<<"heLLo world";
   cout<<"test branch";
  return 0;
  }
